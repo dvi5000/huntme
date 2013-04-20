@@ -88,7 +88,7 @@
 								</div>
 								<div class="eightcol" >
 									<div class="reg">
-	                                	<h1>Cada vez más cerca</h1>
+	                                	<h1>Cada vez más cerca asdf</h1>
 										<p>Ingresa tus datos y pasa a ser parte de HuntMe, la primera red dónde el trabajo te busca a ti.</p> <!-- onsubmit='submitReg()' -->	 									<form method='post' id="login_form" onsubmit='return false' action="php/ajaxValidateSubmit.php">
 							                <input type="text" id="name" name="Name" placeholder="NOMBRE" class='validate[required,custom[onlyLetterSp]]' />
 											<input type="text" id="lastnames" name="Last" placeholder="APELLIDOS" class='validate[required,custom[onlyLetterSp]]' />
